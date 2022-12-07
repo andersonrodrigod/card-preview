@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 580px) {
+    html, body {
+        overflow-x:hidden;
+        height: 750px;
+        
+        
+        
+    }    
+
+    #global {
+        display: flex;
+        flex-direction: column;
+        height: 700px;
+        width: 400px;
+        margin-top: 40px;
+        
+         
+        
+    }
+
+    #imagem {
+        background: #fff url(../product-preview-card-component-main/images/image-product-mobile.jpg);
+        width: auto;
+        background-size: cover;
+        height: 45%;
+        
+        
+        
+    }
+
+    #conteudo {
+        width: auto;
+        height: 55%;
+        padding-top: 20px;
+        
+        
+    }
+
+    
+}
