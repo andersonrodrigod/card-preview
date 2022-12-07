@@ -21,7 +21,7 @@
     }
 
     #imagem {
-        background: #fff url(../product-preview-card-component-main/images/image-product-mobile.jpg);
+        background: #fff url(../card-preview/images/image-product-mobile.jpg);
         width: auto;
         background-size: cover;
         height: 45%;

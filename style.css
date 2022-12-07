@@ -40,7 +40,7 @@ main {
 
 #imagem {
     display: block;
-    background: #fff url(../product-preview-card-component-main/images/image-product-desktop.jpg);
+    background: #fff url(../card-preview/images/image-product-desktop.jpg);
     height: 430px;
     width: 50%;
     background-size: cover;
